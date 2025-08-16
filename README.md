@@ -1,7 +1,7 @@
 ## 🌟Júlia Carolina
 
 - 📒 Graduanda em Análise e Desenvolvimento de Sistemas
-- 📈 Estou no 4° período
+- 📈 4° período
 - 💻 Gosto muito de tecnologia
 - ✉️ E-mail: juliacarolinabispo@gmail.com
 
