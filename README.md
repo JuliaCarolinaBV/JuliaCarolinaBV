@@ -2,7 +2,6 @@
 
 - 📒 Graduanda em Análise e Desenvolvimento de Sistemas
 - 📈 4° período
-- 💻 Gosto muito de tecnologia
 - ✉️ E-mail: juliacarolinabispo@gmail.com
 
 ![JuliaCarolinaBV's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaCarolinaBV&show_icons=true&theme=radical)
